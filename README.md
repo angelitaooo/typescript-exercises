@@ -1,4 +1,5 @@
 # typescript-exercises
+
 1. Create a function bark() that outputs a string passed in 
 2. Create a class Dog with three variables: age , name and breed 
 3. Add a constructor to the class Dog for the name parameter 
@@ -13,3 +14,4 @@
 12. Create the interface climb with the method climbTree() . Then create two classes Climbable and NotClimbable that implement the interface. 
 13. Make the class Animal take another argument in the constructor of type Climb (The interface we just created). 
 14. Update the subclasses respectively in super() sending a new instance Climbable and NotClimbable for Cat and Dog respectively. 
+
